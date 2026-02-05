@@ -1,1 +1,49 @@
-Kubernetes is a container orchestration platform used to manage containers at scale.
+Document 1 — Quantum Computing Overview
+
+Quantum computing uses quantum bits, or qubits, which can exist in multiple states simultaneously through superposition. Unlike classical bits that are either 0 or 1, qubits allow quantum computers to process many possibilities at once. Entanglement allows qubits to influence each other instantly, enabling new algorithms for cryptography, materials science, and optimization problems. Current systems remain error-prone and require extreme cooling, but progress continues rapidly.
+
+
+Document 2 — Retrieval-Augmented Generation (RAG)
+
+Retrieval-Augmented Generation combines document retrieval with large language models to produce responses grounded in external knowledge. Instead of relying solely on model training data, the system retrieves relevant documents from a vector database and injects them into the prompt. This reduces hallucinations and enables dynamic knowledge updates without retraining the model.
+
+
+Document 3 — Kubernetes Explained
+
+Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications. It organizes containers into pods and distributes them across nodes in a cluster. Features include automatic restarts, load balancing, rolling updates, and resource scheduling, making it popular for cloud-native deployments.
+
+
+Document 4 — AI in Drug Discovery
+
+Artificial intelligence accelerates drug discovery by predicting protein structures, simulating molecular interactions, and identifying promising drug candidates faster than traditional lab methods. Companies use machine learning to shorten development timelines and reduce research costs, potentially speeding up treatments for rare and complex diseases.
+
+
+Document 5 — SpaceX Starship Program
+
+SpaceX’s Starship system aims to create a fully reusable spacecraft capable of carrying large cargo and humans to the Moon and Mars. Reusability drastically reduces launch costs compared to traditional expendable rockets. The program faces technical challenges, but rapid testing cycles accelerate development.
+
+
+Document 6 — Vector Databases
+
+Vector databases store embeddings representing semantic meaning of text, images, or other data. Similarity search finds items close in vector space rather than exact keyword matches. They are critical infrastructure for modern AI search systems, recommendation engines, and RAG pipelines.
+
+
+Document 7 — Fusion Energy Progress
+
+Fusion energy seeks to replicate the Sun’s power by fusing atomic nuclei to release energy. Recent experiments have achieved ignition-level energy output, where fusion reactions briefly produce more energy than consumed. Engineering challenges remain before fusion becomes commercially viable.
+
+
+Document 8 — Cybersecurity and AI Threats
+
+AI tools can automate phishing, malware generation, and social engineering attacks. At the same time, AI strengthens defenses through anomaly detection and automated response systems. Cybersecurity increasingly involves an arms race between defensive and offensive AI systems.
+
+
+
+Document 9 — Autonomous Vehicles
+
+Autonomous vehicles rely on sensors, cameras, radar, and machine learning to interpret road conditions and make driving decisions. While self-driving systems perform well in controlled environments, complex real-world scenarios remain difficult. Safety regulation and infrastructure adaptation are ongoing challenges.
+
+
+Document 10 — Brain-Computer Interfaces
+
+Brain-computer interfaces aim to connect neural signals directly to computers. Early systems help paralyzed patients communicate or control prosthetic limbs. Future applications could include restoring vision, treating neurological disorders, or enabling new human-computer interaction methods.
